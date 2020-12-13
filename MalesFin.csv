@@ -15,7 +15,7 @@ Year,Country,Value
 1990,Italy,12.8
 1990,Latvia,12.4
 1990,Lithuania,12.8
-1990,Luxembourg,0.0
+1990,Luxembourg,
 1990,Malta,13.0
 1990,Netherlands,15.0
 1990,Poland,12.0
@@ -42,7 +42,7 @@ Year,Country,Value
 1995,Italy,14.0
 1995,Latvia,12.0
 1995,Lithuania,11.6
-1995,Luxembourg,0.0
+1995,Luxembourg,
 1995,Malta,13.6
 1995,Netherlands,17.1
 1995,Poland,12.8
